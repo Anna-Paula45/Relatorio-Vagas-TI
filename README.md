@@ -4,9 +4,13 @@ Este relatório Contem uma analise de Vagas na Área de Analise e Desenvolviment
 📊 Relatório de Vagas em TI
 Este repositório contém uma análise de vagas de Análise e Desenvolvimento de Sistemas, com foco em três áreas principais:
 
+
 🌐 Desenvolvimento Web
+
 ✅ Qualidade de Software (QA)
+
 🔒 Cybersegurança
+
 O objetivo é identificar as hard skills obrigatórias e desejáveis, além das soft skills mais recorrentes no mercado de trabalho atual.
 
 📄 Relatório em PDF
