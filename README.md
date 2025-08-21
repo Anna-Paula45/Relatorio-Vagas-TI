@@ -21,7 +21,9 @@ O objetivo é identificar as hard skills obrigatórias e desejáveis, além das 
 
 📥 Baixar diretamente o PDF
 
-🔎 Visualizar no GitHub
+git add docs/relatorio.pdf
+git commit -m "Adiciona relatório em PDF"
+git push origin main
 
 🚀 Sobre o projeto
 
