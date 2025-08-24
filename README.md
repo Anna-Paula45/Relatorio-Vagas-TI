@@ -15,7 +15,7 @@ O objetivo é identificar as **hard skills obrigatórias e desejáveis**, além 
 📌 Acesse o relatório completo em PDF pelos links abaixo: 
  
 - 📥 [Baixar diretamente o PDF](https://github.com/Anna-Paula45/Relatorio-Vagas-TI/blob/main/Experiencia%20Pratica%20II.pdf)  
-- 🔎 [Visualizar no GitHub](https://github.com/leandrotottioficialcantor-cpu/Relat-rios_Vagas_TI/tree/main)
+- 🔎 [Visualizar no GitHub](https://github.com/Anna-Paula45/Relatorio-Vagas-TI)
  
 ---
  
